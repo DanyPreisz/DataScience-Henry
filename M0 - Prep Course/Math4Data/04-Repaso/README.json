@@ -1,0 +1,9 @@
+{
+  "lessonTitle": "Repaso",
+  "permalink": "/Clase_Cuatro/",
+  "eleventyNavigation": {
+    "key": "Repaso",
+    "order": 4
+  },
+  "feedbackID": "04 - Repaso"
+}
